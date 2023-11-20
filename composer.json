@@ -1,5 +1,5 @@
 {
-    "name": "streply/streply-laravel",
+    "name": "majidsmileitsolutions/streply-laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
